@@ -9,8 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "date-fns": "^4.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.3",
+    "next": "14.2.16",
+    "nodemailer": "^6.9.15",
+    "pg": "^8.13.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.16"
+    "sequelize": "^6.37.4",
+    "timezone-support": "^3.1.0",
+    "uuid": "^10.0.0",
+    "xlsx": "^0.18.5"
   }
 }
